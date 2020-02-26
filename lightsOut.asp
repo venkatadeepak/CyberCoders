@@ -6,7 +6,7 @@
    .lightOn { background-color: yellow; color: black }
    .lightOff { background-color: black; color: white }
 </style>
-<script src="LightsOut.js"></script>
+<script src="lightsOut.js"></script>
 <body>
    <table id="gameTable"></table>
    <div id="information"></div>
